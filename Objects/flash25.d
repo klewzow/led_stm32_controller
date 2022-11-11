@@ -1,0 +1,15 @@
+.\objects\flash25.o: flash25.c
+.\objects\flash25.o: flash25.h
+.\objects\flash25.o: main.h
+.\objects\flash25.o: .\CMSIS\inc\stm32f10x.h
+.\objects\flash25.o: .\CMSIS\inc\core_cm3.h
+.\objects\flash25.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\flash25.o: .\CMSIS\inc\system_stm32f10x.h
+.\objects\flash25.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\flash25.o: f_cpu.h
+.\objects\flash25.o: main.h
+.\objects\flash25.o: font.h
+.\objects\flash25.o: ws28.h
+.\objects\flash25.o: flash25.h
+.\objects\flash25.o: tft.h
+.\objects\flash25.o: touch.h

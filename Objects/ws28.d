@@ -1,0 +1,15 @@
+.\objects\ws28.o: ws28.c
+.\objects\ws28.o: ws28.h
+.\objects\ws28.o: main.h
+.\objects\ws28.o: .\CMSIS\inc\stm32f10x.h
+.\objects\ws28.o: .\CMSIS\inc\core_cm3.h
+.\objects\ws28.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ws28.o: .\CMSIS\inc\system_stm32f10x.h
+.\objects\ws28.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\ws28.o: f_cpu.h
+.\objects\ws28.o: main.h
+.\objects\ws28.o: font.h
+.\objects\ws28.o: ws28.h
+.\objects\ws28.o: flash25.h
+.\objects\ws28.o: tft.h
+.\objects\ws28.o: touch.h

@@ -1,0 +1,15 @@
+.\objects\f_cpu.o: f_cpu.c
+.\objects\f_cpu.o: f_cpu.h
+.\objects\f_cpu.o: main.h
+.\objects\f_cpu.o: .\CMSIS\inc\stm32f10x.h
+.\objects\f_cpu.o: .\CMSIS\inc\core_cm3.h
+.\objects\f_cpu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\f_cpu.o: .\CMSIS\inc\system_stm32f10x.h
+.\objects\f_cpu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\f_cpu.o: f_cpu.h
+.\objects\f_cpu.o: font.h
+.\objects\f_cpu.o: main.h
+.\objects\f_cpu.o: ws28.h
+.\objects\f_cpu.o: flash25.h
+.\objects\f_cpu.o: tft.h
+.\objects\f_cpu.o: touch.h

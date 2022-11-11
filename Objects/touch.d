@@ -1,0 +1,15 @@
+.\objects\touch.o: touch.c
+.\objects\touch.o: touch.h
+.\objects\touch.o: main.h
+.\objects\touch.o: .\CMSIS\inc\stm32f10x.h
+.\objects\touch.o: .\CMSIS\inc\core_cm3.h
+.\objects\touch.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\touch.o: .\CMSIS\inc\system_stm32f10x.h
+.\objects\touch.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\touch.o: f_cpu.h
+.\objects\touch.o: main.h
+.\objects\touch.o: font.h
+.\objects\touch.o: ws28.h
+.\objects\touch.o: flash25.h
+.\objects\touch.o: tft.h
+.\objects\touch.o: touch.h

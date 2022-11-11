@@ -1,0 +1,15 @@
+.\objects\tft.o: tft.c
+.\objects\tft.o: tft.h
+.\objects\tft.o: main.h
+.\objects\tft.o: .\CMSIS\inc\stm32f10x.h
+.\objects\tft.o: .\CMSIS\inc\core_cm3.h
+.\objects\tft.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tft.o: .\CMSIS\inc\system_stm32f10x.h
+.\objects\tft.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\tft.o: f_cpu.h
+.\objects\tft.o: main.h
+.\objects\tft.o: font.h
+.\objects\tft.o: ws28.h
+.\objects\tft.o: flash25.h
+.\objects\tft.o: tft.h
+.\objects\tft.o: touch.h

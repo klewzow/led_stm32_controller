@@ -1,0 +1,17 @@
+.\objects\init.o: init.c
+.\objects\init.o: init.h
+.\objects\init.o: main.h
+.\objects\init.o: .\CMSIS\inc\stm32f10x.h
+.\objects\init.o: .\CMSIS\inc\core_cm3.h
+.\objects\init.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\init.o: .\CMSIS\inc\system_stm32f10x.h
+.\objects\init.o: init.h
+.\objects\init.o: i2c.h
+.\objects\init.o: main.h
+.\objects\init.o: eeprom_24C04.h
+.\objects\init.o: tim_1.h
+.\objects\init.o: tim_2.h
+.\objects\init.o: ds3231.h
+.\objects\init.o: tim_3.h
+.\objects\init.o: oled_0.h
+.\objects\init.o: ir_decode.h

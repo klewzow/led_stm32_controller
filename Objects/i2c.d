@@ -1,0 +1,17 @@
+.\objects\i2c.o: i2c.c
+.\objects\i2c.o: i2c.h
+.\objects\i2c.o: main.h
+.\objects\i2c.o: .\CMSIS\inc\stm32f10x.h
+.\objects\i2c.o: .\CMSIS\inc\core_cm3.h
+.\objects\i2c.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c.o: .\CMSIS\inc\system_stm32f10x.h
+.\objects\i2c.o: init.h
+.\objects\i2c.o: main.h
+.\objects\i2c.o: i2c.h
+.\objects\i2c.o: eeprom_24C04.h
+.\objects\i2c.o: tim_1.h
+.\objects\i2c.o: tim_2.h
+.\objects\i2c.o: ds3231.h
+.\objects\i2c.o: tim_3.h
+.\objects\i2c.o: oled_0.h
+.\objects\i2c.o: ir_decode.h

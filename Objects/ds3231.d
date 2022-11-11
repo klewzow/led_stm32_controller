@@ -1,0 +1,17 @@
+.\objects\ds3231.o: ds3231.c
+.\objects\ds3231.o: ds3231.h
+.\objects\ds3231.o: main.h
+.\objects\ds3231.o: .\CMSIS\inc\stm32f10x.h
+.\objects\ds3231.o: .\CMSIS\inc\core_cm3.h
+.\objects\ds3231.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ds3231.o: .\CMSIS\inc\system_stm32f10x.h
+.\objects\ds3231.o: init.h
+.\objects\ds3231.o: main.h
+.\objects\ds3231.o: i2c.h
+.\objects\ds3231.o: eeprom_24C04.h
+.\objects\ds3231.o: tim_1.h
+.\objects\ds3231.o: tim_2.h
+.\objects\ds3231.o: ds3231.h
+.\objects\ds3231.o: tim_3.h
+.\objects\ds3231.o: oled_0.h
+.\objects\ds3231.o: ir_decode.h

@@ -1,0 +1,15 @@
+.\objects\font.o: font.c
+.\objects\font.o: font.h
+.\objects\font.o: main.h
+.\objects\font.o: .\CMSIS\inc\stm32f10x.h
+.\objects\font.o: .\CMSIS\inc\core_cm3.h
+.\objects\font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\font.o: .\CMSIS\inc\system_stm32f10x.h
+.\objects\font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\font.o: f_cpu.h
+.\objects\font.o: main.h
+.\objects\font.o: font.h
+.\objects\font.o: ws28.h
+.\objects\font.o: flash25.h
+.\objects\font.o: tft.h
+.\objects\font.o: touch.h

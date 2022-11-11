@@ -1,0 +1,17 @@
+.\objects\ir_decode.o: ir_decode.c
+.\objects\ir_decode.o: ir_decode.h
+.\objects\ir_decode.o: main.h
+.\objects\ir_decode.o: .\CMSIS\inc\stm32f10x.h
+.\objects\ir_decode.o: .\CMSIS\inc\core_cm3.h
+.\objects\ir_decode.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ir_decode.o: .\CMSIS\inc\system_stm32f10x.h
+.\objects\ir_decode.o: init.h
+.\objects\ir_decode.o: main.h
+.\objects\ir_decode.o: i2c.h
+.\objects\ir_decode.o: eeprom_24C04.h
+.\objects\ir_decode.o: tim_1.h
+.\objects\ir_decode.o: tim_2.h
+.\objects\ir_decode.o: ds3231.h
+.\objects\ir_decode.o: tim_3.h
+.\objects\ir_decode.o: oled_0.h
+.\objects\ir_decode.o: ir_decode.h

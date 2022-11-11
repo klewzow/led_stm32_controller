@@ -1,0 +1,107 @@
+Dependencies for Project 'ex_1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup\startup_stm32f10x_md_vl.s)(0x4D78912E)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-ID:\Users\PC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 528" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md_vl.lst --xref -o .\objects\startup_stm32f10x_md_vl.o --depend .\objects\startup_stm32f10x_md_vl.d)
+F (.\CMSIS\src\core_cm3.c)(0x4C0C9ECE)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork --split_sections -I .\CMSIS\inc -I ..\ex_1 -I .\Code-I.\RTE\_Target_1-ID:\Users\PC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F10X_MD-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBCE42)
+F (.\CMSIS\src\system_stm32f10x.c)(0x4D789110)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork --split_sections -I .\CMSIS\inc -I ..\ex_1 -I .\Code-I.\RTE\_Target_1-ID:\Users\PC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (.\CMSIS\inc\stm32f10x.h)(0x5A00929B)
+I (.\CMSIS\inc\core_cm3.h)(0x4D528FB8)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBCE42)
+I (.\CMSIS\inc\system_stm32f10x.h)(0x4D78910A)
+F (.\main.c)(0x60192EEC)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork --split_sections -I .\CMSIS\inc -I ..\ex_1 -I .\Code-I.\RTE\_Target_1-ID:\Users\PC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (main.h)(0x60191D61)
+I (.\CMSIS\inc\stm32f10x.h)(0x5A00929B)
+I (.\CMSIS\inc\core_cm3.h)(0x4D528FB8)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBCE42)
+I (.\CMSIS\inc\system_stm32f10x.h)(0x4D78910A)
+I (D:\Keil_v5\ARM\ARMCC\include\math.h)(0x5CEBCE36)
+I (f_cpu.h)(0x5FF71CD5)
+I (font.h)(0x60005025)
+I (ws28.h)(0x6000159C)
+I (flash25.h)(0x5FFD5E01)
+I (tft.h)(0x5FFDC8CB)
+I (touch.h)(0x600592D5)
+F (.\main.h)(0x60191D61)()
+F (.\f_cpu.h)(0x5FF71CD5)()
+F (.\f_cpu.c)(0x5FF71CD4)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork --split_sections -I .\CMSIS\inc -I ..\ex_1 -I .\Code-I.\RTE\_Target_1-ID:\Users\PC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F10X_MD-o .\objects\f_cpu.o --omf_browse .\objects\f_cpu.crf --depend .\objects\f_cpu.d)
+I (f_cpu.h)(0x5FF71CD5)
+I (main.h)(0x60191D61)
+I (.\CMSIS\inc\stm32f10x.h)(0x5A00929B)
+I (.\CMSIS\inc\core_cm3.h)(0x4D528FB8)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBCE42)
+I (.\CMSIS\inc\system_stm32f10x.h)(0x4D78910A)
+I (D:\Keil_v5\ARM\ARMCC\include\math.h)(0x5CEBCE36)
+I (font.h)(0x60005025)
+I (ws28.h)(0x6000159C)
+I (flash25.h)(0x5FFD5E01)
+I (tft.h)(0x5FFDC8CB)
+I (touch.h)(0x600592D5)
+F (.\flash25.c)(0x600046F2)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork --split_sections -I .\CMSIS\inc -I ..\ex_1 -I .\Code-I.\RTE\_Target_1-ID:\Users\PC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F10X_MD-o .\objects\flash25.o --omf_browse .\objects\flash25.crf --depend .\objects\flash25.d)
+I (flash25.h)(0x5FFD5E01)
+I (main.h)(0x60191D61)
+I (.\CMSIS\inc\stm32f10x.h)(0x5A00929B)
+I (.\CMSIS\inc\core_cm3.h)(0x4D528FB8)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBCE42)
+I (.\CMSIS\inc\system_stm32f10x.h)(0x4D78910A)
+I (D:\Keil_v5\ARM\ARMCC\include\math.h)(0x5CEBCE36)
+I (f_cpu.h)(0x5FF71CD5)
+I (font.h)(0x60005025)
+I (ws28.h)(0x6000159C)
+I (tft.h)(0x5FFDC8CB)
+I (touch.h)(0x600592D5)
+F (.\flash25.h)(0x5FFD5E01)()
+F (.\tft.c)(0x5FFDC8C0)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork --split_sections -I .\CMSIS\inc -I ..\ex_1 -I .\Code-I.\RTE\_Target_1-ID:\Users\PC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F10X_MD-o .\objects\tft.o --omf_browse .\objects\tft.crf --depend .\objects\tft.d)
+I (tft.h)(0x5FFDC8CB)
+I (main.h)(0x60191D61)
+I (.\CMSIS\inc\stm32f10x.h)(0x5A00929B)
+I (.\CMSIS\inc\core_cm3.h)(0x4D528FB8)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBCE42)
+I (.\CMSIS\inc\system_stm32f10x.h)(0x4D78910A)
+I (D:\Keil_v5\ARM\ARMCC\include\math.h)(0x5CEBCE36)
+I (f_cpu.h)(0x5FF71CD5)
+I (font.h)(0x60005025)
+I (ws28.h)(0x6000159C)
+I (flash25.h)(0x5FFD5E01)
+I (touch.h)(0x600592D5)
+F (.\tft.h)(0x5FFDC8CB)()
+F (.\touch.h)(0x600592D5)()
+F (.\touch.c)(0x60193E28)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork --split_sections -I .\CMSIS\inc -I ..\ex_1 -I .\Code-I.\RTE\_Target_1-ID:\Users\PC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F10X_MD-o .\objects\touch.o --omf_browse .\objects\touch.crf --depend .\objects\touch.d)
+I (touch.h)(0x600592D5)
+I (main.h)(0x60191D61)
+I (.\CMSIS\inc\stm32f10x.h)(0x5A00929B)
+I (.\CMSIS\inc\core_cm3.h)(0x4D528FB8)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBCE42)
+I (.\CMSIS\inc\system_stm32f10x.h)(0x4D78910A)
+I (D:\Keil_v5\ARM\ARMCC\include\math.h)(0x5CEBCE36)
+I (f_cpu.h)(0x5FF71CD5)
+I (font.h)(0x60005025)
+I (ws28.h)(0x6000159C)
+I (flash25.h)(0x5FFD5E01)
+I (tft.h)(0x5FFDC8CB)
+F (.\font.h)(0x60005025)()
+F (.\font.c)(0x60005042)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork --split_sections -I .\CMSIS\inc -I ..\ex_1 -I .\Code-I.\RTE\_Target_1-ID:\Users\PC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F10X_MD-o .\objects\font.o --omf_browse .\objects\font.crf --depend .\objects\font.d)
+I (font.h)(0x60005025)
+I (main.h)(0x60191D61)
+I (.\CMSIS\inc\stm32f10x.h)(0x5A00929B)
+I (.\CMSIS\inc\core_cm3.h)(0x4D528FB8)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBCE42)
+I (.\CMSIS\inc\system_stm32f10x.h)(0x4D78910A)
+I (D:\Keil_v5\ARM\ARMCC\include\math.h)(0x5CEBCE36)
+I (f_cpu.h)(0x5FF71CD5)
+I (ws28.h)(0x6000159C)
+I (flash25.h)(0x5FFD5E01)
+I (tft.h)(0x5FFDC8CB)
+I (touch.h)(0x600592D5)
+F (.\ws28.h)(0x6000159C)()
+F (.\ws28.c)(0x60192EC8)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O3 --apcs=interwork --split_sections -I .\CMSIS\inc -I ..\ex_1 -I .\Code-I.\RTE\_Target_1-ID:\Users\PC\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528" -DSTM32F10X_MD-o .\objects\ws28.o --omf_browse .\objects\ws28.crf --depend .\objects\ws28.d)
+I (ws28.h)(0x6000159C)
+I (main.h)(0x60191D61)
+I (.\CMSIS\inc\stm32f10x.h)(0x5A00929B)
+I (.\CMSIS\inc\core_cm3.h)(0x4D528FB8)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBCE42)
+I (.\CMSIS\inc\system_stm32f10x.h)(0x4D78910A)
+I (D:\Keil_v5\ARM\ARMCC\include\math.h)(0x5CEBCE36)
+I (f_cpu.h)(0x5FF71CD5)
+I (font.h)(0x60005025)
+I (flash25.h)(0x5FFD5E01)
+I (tft.h)(0x5FFDC8CB)
+I (touch.h)(0x600592D5)
